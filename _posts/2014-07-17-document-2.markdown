@@ -1,0 +1,9 @@
+---
+layout: default
+title: Документ 2
+modal-id: 2
+date: 2014-07-17
+img: nbfgh4.png
+alt: Удостоверение
+
+---
